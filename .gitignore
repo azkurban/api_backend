@@ -19,3 +19,6 @@ target/*
 out/*
 .idea
 composer.json
+.project
+.classpath
+.settings/
